@@ -1,0 +1,307 @@
+jornada,homeTeam_fullName,homeTeam_abbName,awayeam_fullName,awayTeam_abbName
+1,Unicaja,UNI,Surne Bilbao Basket,SBB
+1,Recoletas Salud San Pablo Burgos,BUR,Bàsquet Girona,GIR
+1,La Laguna Tenerife,LLT,BAXI Manresa,BAX
+1,Hiopos Lleida,HIO,Río Breogán,BRE
+1,Coviran Granada,COV,Joventut Badalona,JOV
+1,Real Madrid,RMB,Dreamland Gran Canaria,DGC
+1,Casademont Zaragoza,CAZ,Baskonia,BKN
+1,UCAM Murcia,UCM,MoraBanc Andorra,MBA
+1,Valencia Basket,VBC,Barça,BAR
+2,Bàsquet Girona,GIR,UCAM Murcia,UCM
+2,MoraBanc Andorra,MBA,La Laguna Tenerife,LLT
+2,Dreamland Gran Canaria,DGC,Unicaja,UNI
+2,BAXI Manresa,BAX,Coviran Granada,COV
+2,Joventut Badalona,JOV,Casademont Zaragoza,CAZ
+2,Barça,BAR,Hiopos Lleida,HIO
+2,Río Breogán,BRE,Valencia Basket,VBC
+2,Surne Bilbao Basket,SBB,Recoletas Salud San Pablo Burgos,BUR
+2,Baskonia,BKN,Real Madrid,RMB
+3,BAXI Manresa,BAX,Dreamland Gran Canaria,DGC
+3,MoraBanc Andorra,MBA,Bàsquet Girona,GIR
+3,La Laguna Tenerife,LLT,UCAM Murcia,UCM
+3,Casademont Zaragoza,CAZ,Río Breogán,BRE
+3,Joventut Badalona,JOV,Surne Bilbao Basket,SBB
+3,Real Madrid,RMB,Recoletas Salud San Pablo Burgos,BUR
+3,Hiopos Lleida,HIO,Valencia Basket,VBC
+3,Coviran Granada,COV,Baskonia,BKN
+3,Unicaja,UNI,Barça,BAR
+4,Hiopos Lleida,HIO,Coviran Granada,COV
+4,Barça,BAR,Río Breogán,BRE
+4,La Laguna Tenerife,LLT,Unicaja,UNI
+4,Recoletas Salud San Pablo Burgos,BUR,Casademont Zaragoza,CAZ
+4,Bàsquet Girona,GIR,Dreamland Gran Canaria,DGC
+4,UCAM Murcia,UCM,Baskonia,BKN
+4,Surne Bilbao Basket,SBB,MoraBanc Andorra,MBA
+4,Valencia Basket,VBC,Joventut Badalona,JOV
+4,Real Madrid,RMB,BAXI Manresa,BAX
+5,BAXI Manresa,BAX,Surne Bilbao Basket,SBB
+5,Unicaja,UNI,Bàsquet Girona,GIR
+5,Dreamland Gran Canaria,DGC,MoraBanc Andorra,MBA
+5,Río Breogán,BRE,Coviran Granada,COV
+5,Joventut Badalona,JOV,Hiopos Lleida,HIO
+5,Casademont Zaragoza,CAZ,Real Madrid,RMB
+5,Barça,BAR,UCAM Murcia,UCM
+5,Valencia Basket,VBC,Recoletas Salud San Pablo Burgos,BUR
+5,Baskonia,BKN,La Laguna Tenerife,LLT
+6,UCAM Murcia,UCM,BAXI Manresa,BAX
+6,Río Breogán,BRE,Dreamland Gran Canaria,DGC
+6,La Laguna Tenerife,LLT,Recoletas Salud San Pablo Burgos,BUR
+6,MoraBanc Andorra,MBA,Unicaja,UNI
+6,Hiopos Lleida,HIO,Baskonia,BKN
+6,Bàsquet Girona,GIR,Barça,BAR
+6,Coviran Granada,COV,Valencia Basket,VBC
+6,Surne Bilbao Basket,SBB,Casademont Zaragoza,CAZ
+6,Joventut Badalona,JOV,Real Madrid,RMB
+7,Bàsquet Girona,GIR,Coviran Granada,COV
+7,Casademont Zaragoza,CAZ,Unicaja,UNI
+7,Dreamland Gran Canaria,DGC,Joventut Badalona,JOV
+7,Recoletas Salud San Pablo Burgos,BUR,MoraBanc Andorra,MBA
+7,BAXI Manresa,BAX,Hiopos Lleida,HIO
+7,Valencia Basket,VBC,La Laguna Tenerife,LLT
+7,Real Madrid,RMB,Surne Bilbao Basket,SBB
+7,UCAM Murcia,UCM,Río Breogán,BRE
+7,Barça,BAR,Baskonia,BKN
+8,Hiopos Lleida,HIO,UCAM Murcia,UCM
+8,Coviran Granada,COV,Real Madrid,RMB
+8,Unicaja,UNI,BAXI Manresa,BAX
+8,Río Breogán,BRE,Recoletas Salud San Pablo Burgos,BUR
+8,MoraBanc Andorra,MBA,Joventut Badalona,JOV
+8,Baskonia,BKN,Surne Bilbao Basket,SBB
+8,Valencia Basket,VBC,Bàsquet Girona,GIR
+8,Casademont Zaragoza,CAZ,La Laguna Tenerife,LLT
+8,Dreamland Gran Canaria,DGC,Barça,BAR
+9,Recoletas Salud San Pablo Burgos,BUR,UCAM Murcia,UCM
+9,Hiopos Lleida,HIO,Unicaja,UNI
+9,Coviran Granada,COV,Casademont Zaragoza,CAZ
+9,Bàsquet Girona,GIR,Río Breogán,BRE
+9,Joventut Badalona,JOV,BAXI Manresa,BAX
+9,La Laguna Tenerife,LLT,Real Madrid,RMB
+9,Barça,BAR,MoraBanc Andorra,MBA
+9,Surne Bilbao Basket,SBB,Dreamland Gran Canaria,DGC
+9,Baskonia,BKN,Valencia Basket,VBC
+10,UCAM Murcia,UCM,Joventut Badalona,JOV
+10,Río Breogán,BRE,La Laguna Tenerife,LLT
+10,Dreamland Gran Canaria,DGC,Baskonia,BKN
+10,MoraBanc Andorra,MBA,Coviran Granada,COV
+10,Surne Bilbao Basket,SBB,Hiopos Lleida,HIO
+10,Unicaja,UNI,Recoletas Salud San Pablo Burgos,BUR
+10,Real Madrid,RMB,Bàsquet Girona,GIR
+10,Valencia Basket,VBC,Casademont Zaragoza,CAZ
+10,BAXI Manresa,BAX,Barça,BAR
+11,Bàsquet Girona,GIR,La Laguna Tenerife,LLT
+11,Hiopos Lleida,HIO,Real Madrid,RMB
+11,Dreamland Gran Canaria,DGC,Coviran Granada,COV
+11,Recoletas Salud San Pablo Burgos,BUR,BAXI Manresa,BAX
+11,Río Breogán,BRE,Surne Bilbao Basket,SBB
+11,Barça,BAR,Joventut Badalona,JOV
+11,UCAM Murcia,UCM,Valencia Basket,VBC
+11,Casademont Zaragoza,CAZ,MoraBanc Andorra,MBA
+11,Unicaja,UNI,Baskonia,BKN
+12,Baskonia,BKN,Recoletas Salud San Pablo Burgos,BUR
+12,Casademont Zaragoza,CAZ,BAXI Manresa,BAX
+12,Coviran Granada,COV,UCAM Murcia,UCM
+12,Joventut Badalona,JOV,Río Breogán,BRE
+12,Bàsquet Girona,GIR,Hiopos Lleida,HIO
+12,La Laguna Tenerife,LLT,Dreamland Gran Canaria,DGC
+12,Surne Bilbao Basket,SBB,Barça,BAR
+12,Valencia Basket,VBC,MoraBanc Andorra,MBA
+12,Real Madrid,RMB,Unicaja,UNI
+13,Río Breogán,BRE,Baskonia,BKN
+13,Recoletas Salud San Pablo Burgos,BUR,Dreamland Gran Canaria,DGC
+13,Unicaja,UNI,Joventut Badalona,JOV
+13,La Laguna Tenerife,LLT,Coviran Granada,COV
+13,UCAM Murcia,UCM,Real Madrid,RMB
+13,Surne Bilbao Basket,SBB,Valencia Basket,VBC
+13,BAXI Manresa,BAX,Bàsquet Girona,GIR
+13,MoraBanc Andorra,MBA,Hiopos Lleida,HIO
+13,Barça,BAR,Casademont Zaragoza,CAZ
+14,Río Breogán,BRE,Unicaja,UNI
+14,Coviran Granada,COV,Recoletas Salud San Pablo Burgos,BUR
+14,Dreamland Gran Canaria,DGC,UCAM Murcia,UCM
+14,Joventut Badalona,JOV,La Laguna Tenerife,LLT
+14,Real Madrid,RMB,Barça,BAR
+14,Hiopos Lleida,HIO,Casademont Zaragoza,CAZ
+14,Baskonia,BKN,MoraBanc Andorra,MBA
+14,Bàsquet Girona,GIR,Surne Bilbao Basket,SBB
+14,Valencia Basket,VBC,BAXI Manresa,BAX
+15,Casademont Zaragoza,CAZ,Dreamland Gran Canaria,DGC
+15,Surne Bilbao Basket,SBB,UCAM Murcia,UCM
+15,La Laguna Tenerife,LLT,Hiopos Lleida,HIO
+15,BAXI Manresa,BAX,Río Breogán,BRE
+15,Recoletas Salud San Pablo Burgos,BUR,Joventut Badalona,JOV
+15,Valencia Basket,VBC,Unicaja,UNI
+15,Barça,BAR,Coviran Granada,COV
+15,Bàsquet Girona,GIR,Baskonia,BKN
+15,MoraBanc Andorra,MBA,Real Madrid,RMB
+16,Unicaja,UNI,Coviran Granada,COV
+16,MoraBanc Andorra,MBA,Río Breogán,BRE
+16,Dreamland Gran Canaria,DGC,Hiopos Lleida,HIO
+16,Surne Bilbao Basket,SBB,La Laguna Tenerife,LLT
+16,Recoletas Salud San Pablo Burgos,BUR,Barça,BAR
+16,Joventut Badalona,JOV,Bàsquet Girona,GIR
+16,Baskonia,BKN,BAXI Manresa,BAX
+16,UCAM Murcia,UCM,Casademont Zaragoza,CAZ
+16,Real Madrid,RMB,Valencia Basket,VBC
+17,Casademont Zaragoza,CAZ,Bàsquet Girona,GIR
+17,Río Breogán,BRE,Real Madrid,RMB
+17,Hiopos Lleida,HIO,Recoletas Salud San Pablo Burgos,BUR
+17,Coviran Granada,COV,Surne Bilbao Basket,SBB
+17,BAXI Manresa,BAX,MoraBanc Andorra,MBA
+17,Dreamland Gran Canaria,DGC,Valencia Basket,VBC
+17,Baskonia,BKN,Joventut Badalona,JOV
+17,Unicaja,UNI,UCAM Murcia,UCM
+17,Barça,BAR,La Laguna Tenerife,LLT
+18,Coviran Granada,COV,Río Breogán,BRE
+18,MoraBanc Andorra,MBA,Dreamland Gran Canaria,DGC
+18,Surne Bilbao Basket,SBB,Joventut Badalona,JOV
+18,Bàsquet Girona,GIR,Recoletas Salud San Pablo Burgos,BUR
+18,BAXI Manresa,BAX,Unicaja,UNI
+18,Real Madrid,RMB,Casademont Zaragoza,CAZ
+18,Valencia Basket,VBC,Hiopos Lleida,HIO
+18,La Laguna Tenerife,LLT,Baskonia,BKN
+18,UCAM Murcia,UCM,Barça,BAR
+19,Recoletas Salud San Pablo Burgos,BUR,La Laguna Tenerife,LLT
+19,Unicaja,UNI,MoraBanc Andorra,MBA
+19,Dreamland Gran Canaria,DGC,Surne Bilbao Basket,SBB
+19,Río Breogán,BRE,UCAM Murcia,UCM
+19,Hiopos Lleida,HIO,BAXI Manresa,BAX
+19,Joventut Badalona,JOV,Valencia Basket,VBC
+19,Real Madrid,RMB,Coviran Granada,COV
+19,Baskonia,BKN,Casademont Zaragoza,CAZ
+19,Barça,BAR,Bàsquet Girona,GIR
+20,Casademont Zaragoza,CAZ,Joventut Badalona,JOV
+20,Coviran Granada,COV,Dreamland Gran Canaria,DGC
+20,La Laguna Tenerife,LLT,Río Breogán,BRE
+20,UCAM Murcia,UCM,Recoletas Salud San Pablo Burgos,BUR
+20,Hiopos Lleida,HIO,Bàsquet Girona,GIR
+20,MoraBanc Andorra,MBA,Valencia Basket,VBC
+20,Barça,BAR,BAXI Manresa,BAX
+20,Surne Bilbao Basket,SBB,Baskonia,BKN
+20,Unicaja,UNI,Real Madrid,RMB
+21,BAXI Manresa,BAX,La Laguna Tenerife,LLT
+21,MoraBanc Andorra,MBA,Casademont Zaragoza,CAZ
+21,Recoletas Salud San Pablo Burgos,BUR,Surne Bilbao Basket,SBB
+21,Bàsquet Girona,GIR,Unicaja,UNI
+21,Río Breogán,BRE,Barça,BAR
+21,Valencia Basket,VBC,UCAM Murcia,UCM
+21,Joventut Badalona,JOV,Coviran Granada,COV
+21,Baskonia,BKN,Hiopos Lleida,HIO
+21,Dreamland Gran Canaria,DGC,Real Madrid,RMB
+22,Unicaja,UNI,Casademont Zaragoza,CAZ
+22,UCAM Murcia,UCM,Dreamland Gran Canaria,DGC
+22,La Laguna Tenerife,LLT,Valencia Basket,VBC
+22,Surne Bilbao Basket,SBB,Río Breogán,BRE
+22,Bàsquet Girona,GIR,MoraBanc Andorra,MBA
+22,Recoletas Salud San Pablo Burgos,BUR,Baskonia,BKN
+22,Real Madrid,RMB,Hiopos Lleida,HIO
+22,Coviran Granada,COV,BAXI Manresa,BAX
+22,Joventut Badalona,JOV,Barça,BAR
+23,BAXI Manresa,BAX,UCAM Murcia,UCM
+23,MoraBanc Andorra,MBA,Surne Bilbao Basket,SBB
+23,Unicaja,UNI,La Laguna Tenerife,LLT
+23,Casademont Zaragoza,CAZ,Recoletas Salud San Pablo Burgos,BUR
+23,Hiopos Lleida,HIO,Joventut Badalona,JOV
+23,Dreamland Gran Canaria,DGC,Río Breogán,BRE
+23,Baskonia,BKN,Bàsquet Girona,GIR
+23,Valencia Basket,VBC,Coviran Granada,COV
+23,Barça,BAR,Real Madrid,RMB
+24,Río Breogán,BRE,BAXI Manresa,BAX
+24,UCAM Murcia,UCM,Surne Bilbao Basket,SBB
+24,Coviran Granada,COV,Hiopos Lleida,HIO
+24,Bàsquet Girona,GIR,Real Madrid,RMB
+24,Joventut Badalona,JOV,Dreamland Gran Canaria,DGC
+24,La Laguna Tenerife,LLT,Casademont Zaragoza,CAZ
+24,MoraBanc Andorra,MBA,Baskonia,BKN
+24,Recoletas Salud San Pablo Burgos,BUR,Valencia Basket,VBC
+24,Barça,BAR,Unicaja,UNI
+25,Surne Bilbao Basket,SBB,Unicaja,UNI
+25,Coviran Granada,COV,Bàsquet Girona,GIR
+25,Dreamland Gran Canaria,DGC,Recoletas Salud San Pablo Burgos,BUR
+25,Joventut Badalona,JOV,UCAM Murcia,UCM
+25,BAXI Manresa,BAX,Baskonia,BKN
+25,Hiopos Lleida,HIO,La Laguna Tenerife,LLT
+25,Real Madrid,RMB,MoraBanc Andorra,MBA
+25,Valencia Basket,VBC,Río Breogán,BRE
+25,Casademont Zaragoza,CAZ,Barça,BAR
+26,Casademont Zaragoza,CAZ,Hiopos Lleida,HIO
+26,Río Breogán,BRE,MoraBanc Andorra,MBA
+26,La Laguna Tenerife,LLT,Bàsquet Girona,GIR
+26,UCAM Murcia,UCM,Coviran Granada,COV
+26,BAXI Manresa,BAX,Joventut Badalona,JOV
+26,Unicaja,UNI,Valencia Basket,VBC
+26,Barça,BAR,Surne Bilbao Basket,SBB
+26,Baskonia,BKN,Dreamland Gran Canaria,DGC
+26,Recoletas Salud San Pablo Burgos,BUR,Real Madrid,RMB
+27,Joventut Badalona,JOV,Baskonia,BKN
+27,MoraBanc Andorra,MBA,UCAM Murcia,UCM
+27,Dreamland Gran Canaria,DGC,Casademont Zaragoza,CAZ
+27,Surne Bilbao Basket,SBB,BAXI Manresa,BAX
+27,Hiopos Lleida,HIO,Barça,BAR
+27,Coviran Granada,COV,Unicaja,UNI
+27,Recoletas Salud San Pablo Burgos,BUR,Río Breogán,BRE
+27,Bàsquet Girona,GIR,Valencia Basket,VBC
+27,Real Madrid,RMB,La Laguna Tenerife,LLT
+28,Unicaja,UNI,Hiopos Lleida,HIO
+28,BAXI Manresa,BAX,Recoletas Salud San Pablo Burgos,BUR
+28,UCAM Murcia,UCM,La Laguna Tenerife,LLT
+28,Dreamland Gran Canaria,DGC,Bàsquet Girona,GIR
+28,Río Breogán,BRE,Joventut Badalona,JOV
+28,Baskonia,BKN,Barça,BAR
+28,Casademont Zaragoza,CAZ,Surne Bilbao Basket,SBB
+28,Coviran Granada,COV,MoraBanc Andorra,MBA
+28,Valencia Basket,VBC,Real Madrid,RMB
+29,Joventut Badalona,JOV,Unicaja,UNI
+29,Bàsquet Girona,GIR,Casademont Zaragoza,CAZ
+29,La Laguna Tenerife,LLT,MoraBanc Andorra,MBA
+29,Baskonia,BKN,Río Breogán,BRE
+29,BAXI Manresa,BAX,Valencia Basket,VBC
+29,Surne Bilbao Basket,SBB,Coviran Granada,COV
+29,Real Madrid,RMB,UCAM Murcia,UCM
+29,Recoletas Salud San Pablo Burgos,BUR,Hiopos Lleida,HIO
+29,Barça,BAR,Dreamland Gran Canaria,DGC
+30,UCAM Murcia,UCM,Bàsquet Girona,GIR
+30,Barça,BAR,Recoletas Salud San Pablo Burgos,BUR
+30,La Laguna Tenerife,LLT,Joventut Badalona,JOV
+30,Casademont Zaragoza,CAZ,Coviran Granada,COV
+30,Hiopos Lleida,HIO,Surne Bilbao Basket,SBB
+30,MoraBanc Andorra,MBA,BAXI Manresa,BAX
+30,Real Madrid,RMB,Río Breogán,BRE
+30,Unicaja,UNI,Dreamland Gran Canaria,DGC
+30,Valencia Basket,VBC,Baskonia,BKN
+31,Bàsquet Girona,GIR,BAXI Manresa,BAX
+31,Río Breogán,BRE,Hiopos Lleida,HIO
+31,Casademont Zaragoza,CAZ,Valencia Basket,VBC
+31,Coviran Granada,COV,Barça,BAR
+31,Recoletas Salud San Pablo Burgos,BUR,Unicaja,UNI
+31,Joventut Badalona,JOV,MoraBanc Andorra,MBA
+31,Surne Bilbao Basket,SBB,Real Madrid,RMB
+31,Dreamland Gran Canaria,DGC,La Laguna Tenerife,LLT
+31,Baskonia,BKN,UCAM Murcia,UCM
+32,Río Breogán,BRE,Bàsquet Girona,GIR
+32,BAXI Manresa,BAX,Casademont Zaragoza,CAZ
+32,Hiopos Lleida,HIO,Dreamland Gran Canaria,DGC
+32,UCAM Murcia,UCM,Unicaja,UNI
+32,Valencia Basket,VBC,Surne Bilbao Basket,SBB
+32,Real Madrid,RMB,Joventut Badalona,JOV
+32,Baskonia,BKN,Coviran Granada,COV
+32,MoraBanc Andorra,MBA,Recoletas Salud San Pablo Burgos,BUR
+32,La Laguna Tenerife,LLT,Barça,BAR
+33,Unicaja,UNI,Río Breogán,BRE
+33,Barça,BAR,Valencia Basket,VBC
+33,Dreamland Gran Canaria,DGC,BAXI Manresa,BAX
+33,Coviran Granada,COV,La Laguna Tenerife,LLT
+33,Surne Bilbao Basket,SBB,Bàsquet Girona,GIR
+33,Hiopos Lleida,HIO,MoraBanc Andorra,MBA
+33,Casademont Zaragoza,CAZ,UCAM Murcia,UCM
+33,Joventut Badalona,JOV,Recoletas Salud San Pablo Burgos,BUR
+33,Real Madrid,RMB,Baskonia,BKN
+34,Bàsquet Girona,GIR,Joventut Badalona,JOV
+34,Baskonia,BKN,Unicaja,UNI
+34,BAXI Manresa,BAX,Real Madrid,RMB
+34,La Laguna Tenerife,LLT,Surne Bilbao Basket,SBB
+34,MoraBanc Andorra,MBA,Barça,BAR
+34,Río Breogán,BRE,Casademont Zaragoza,CAZ
+34,Recoletas Salud San Pablo Burgos,BUR,Coviran Granada,COV
+34,UCAM Murcia,UCM,Hiopos Lleida,HIO
+34,Valencia Basket,VBC,Dreamland Gran Canaria,DGC
