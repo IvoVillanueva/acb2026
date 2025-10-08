@@ -1,0 +1,64 @@
+playType,type_description,type_normalized_description
+599,Cinco Inicial,Starting Five
+122,Inicio de partido,Start of the Game
+121,Inicio Periodo,Start of the Quarter
+178,Salto ganado,Won jump
+179,Salto perdido,Lost jump
+93,Canasta de 2,2-Point Shot Made
+94,Canasta de 3,3-Point Shot Made
+106,Pérdida,Turnover
+103,Recuperación,Steal
+97,Intento fallado de 2,2-Point Shot Missed
+104,Rebote Defensivo,Defensive Rebound
+159,Personal no TL,Foul No FT
+110,Falta recibida,Foul Received
+98,Intento fallado de 3,3-Point Shot Missed
+101,Rebote Ofensivo,Offensive Rebound
+108,Asistencia tiro de 3,Assist 3-Point Shot
+107,Asistencia tiro de 2,Assist 2-Point Shot
+161,Personal 2TL,Foul 2FT
+96,Intento fallado de 1,Free Throw Missed
+92,Canasta de 1,Free Throw Made
+115,Sale Pista,Substitution - Out
+112,Entra Pista,Substitution - In
+109,Falta en Ataque,Offensive Foul
+116,Final de Periodo,End of the Quarter
+105,Tapón Recibido,Block Received
+102,Tapón,Block
+113,Tiempo Muerto,Timeout
+162,Personal 3TL,Foul 3FT
+119,Asistencia Falta Recibida,Assist Foul Received
+100,Mate,Dunk
+416,IR - Challenge entrenador local,NA
+749,IR - Challenge perdido,IR - Challenge lost
+160,Personal 1TL,Foul 1FT
+409,IR - Revisión del reloj de partido,NA
+123,Final Partido,End of the Game
+166,Antidep 2TL,Unsportsmanlike 2FT
+417,IR - Challenge entrenador visitante,NA
+407,IR - Revisión de la validez de una canasta,NA
+411,IR - Revisión del tipo de falta,NA
+406,IR - Comprobación del tipo de tiro convertido,NA
+408,IR - Revisión reloj de posesión,NA
+540,Tec. Coach 1TL,Technical Foul Coach 1FT
+200,GD - Descalificante de partido,NA
+533,Mate fuera,Missed Dunk
+544,Tec. Banq 1TL,Technical Foul Bench 1FT
+537,Técnica 1TL,Technical Foul 1FT
+414,IR - Revisión acción jugador,NA
+118,Tiempo de Televisión,TV Timeout
+748,IR - Challenge ganado,IR - Challenge won
+413,IR - Revisión último jugador en tocar balón,NA
+410,IR - Revisión por enfrentamiento,NA
+167,Antidep 3TL,Unsportsmanlike 3FT
+545,Tec. Banq 2TL,Technical Foul Bench 2FT
+415,IR - Revisión de cambios,NA
+173,Téc. Comp,Double Technical Foul - No FT
+549,D - Descalificante - 2TL,NA
+412,IR - Revisión de una violación,NA
+171,G - Descalificante - No falta equipo,NA
+163,Personal TL Comp,Double Foul - No FT
+543,Tec. Coach Comp,Double Technical Coach - No FT
+547,Tec. Banq Comp,Double Technical Foul Bench - No FT
+165,Antidep 1TL,Unsportsmanlike 1FT
+168,Antidep TL Comp,Double Unsportsmanlike - No FT
